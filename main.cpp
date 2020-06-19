@@ -108,19 +108,6 @@ for(int i=0,j=col-1;i<row&&j>=0;i++,j--){
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 int main()
 {
     int row,col,numberofrow,nc,nr;char x;
